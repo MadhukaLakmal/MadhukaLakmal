@@ -1,4 +1,5 @@
-<div align="center">Hey 👋, I'm Madhuka Lakmal
+<div align="center">
+  Hey 👋, I'm Madhuka Lakmal
 Software Engineering Undergraduate · Building useful things with code
 <img src="pixel-art-coding-from-recording.gif" width="100%" alt="Looping retro pixel-art animation of a developer working at a computer" />
 <a href="https://readme-typing-svg.demolab.com/demo/">
